@@ -12,6 +12,10 @@ const integrantes = {
   ]
 };
 
+app.get('/', (req, res) => {
+  res.sendFile('views/index.html', { root: __dirname });
+});
+
 app.get('/integrantes', (req, res) => {
   res.json(integrantes);
 });
