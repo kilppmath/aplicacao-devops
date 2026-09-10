@@ -36,5 +36,5 @@ bash
 ## Integrantes
 
 Matheus Kilpp Nogueira
-Pedro Henrique Barbosa
+Pedro Henrique
 Paulo Antonio 
